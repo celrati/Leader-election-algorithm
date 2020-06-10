@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/home/hraf/Desktop/PPC_PROJECT_TME/project AKKA/Projet_code/Projet_code/src/main/scala/CheckerActor.scala:79:50: not found: value qs[0m
+[0m[[0m[31merror[0m] [0m[0m      if(lastSize!=nodesAlive.size) nodesAlive = qs(nodesAlive)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hraf/Desktop/PPC_PROJECT_TME/project AKKA/Projet_code/Projet_code/src/main/scala/Node.scala:50:28: not found: value isAliveLeader[0m
+[0m[[0m[31merror[0m] [0m[0m                    node ! isAliveLeader(nodeId)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hraf/Desktop/PPC_PROJECT_TME/project AKKA/Projet_code/Projet_code/src/main/scala/Node.scala:52:31: not found: value isAliveLeader[0m
+[0m[[0m[31merror[0m] [0m[0m               checkerActor ! isAliveLeader(nodeId)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hraf/Desktop/PPC_PROJECT_TME/project AKKA/Projet_code/Projet_code/src/main/scala/Node.scala:57:28: not found: value isAlive[0m
+[0m[[0m[31merror[0m] [0m[0m                    node ! isAlive(nodeId)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hraf/Desktop/PPC_PROJECT_TME/project AKKA/Projet_code/Projet_code/src/main/scala/Node.scala:59:31: not found: value isAlive[0m
+[0m[[0m[31merror[0m] [0m[0m               checkerActor ! isAlive(nodeId)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/hraf/Desktop/PPC_PROJECT_TME/project AKKA/Projet_code/Projet_code/src/main/scala/Node.scala:64:31: not found: value isAlive[0m
+[0m[[0m[31merror[0m] [0m[0m               checkerActor ! isAlive(id)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
